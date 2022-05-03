@@ -3,6 +3,6 @@
 ## Links úteis
 
 
-[Dio.Me](https://www.dio.me.com)
+[Dio.Me](https://www.dio.me/)
 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
